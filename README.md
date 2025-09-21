@@ -32,7 +32,13 @@
 - Микросервисная архитектура, деплой через Docker и Supervisor  
 - Планирование задач и код-ревью  
 👉 [detective-freelance-fastapi](https://github.com/Qusar0/detective-freelance-fastapi)
+
+### Пользовательский интерфейс для поиска информации
 <img width="1911" height="870" alt="image" src="https://github.com/user-attachments/assets/6d49382a-dd64-464b-b41e-72a28f284928" />
+
+### Пользовательский интерфейс для просмотра найденной информации
+<img width="1912" height="892" alt="image" src="https://github.com/user-attachments/assets/9285ae57-f74c-452a-a01c-6f55daec1a2a" />
+
 
 - Telegram-бот календарь с напоминаниями [@scheduler_fever_bot](https://t.me/scheduler_fever_bot)  
 - Боты для внутренних сервисов (интеграция с Jira)  
