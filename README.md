@@ -36,5 +36,5 @@
 ## Контакты
 
 - Email: [artyom090123@gmail.com](mailto:artyom090123@gmail.com)  
-- Telegram: [@твой_ник](https://t.me/qusar096)
+- Telegram: [@qusar096](https://t.me/qusar096)
 
